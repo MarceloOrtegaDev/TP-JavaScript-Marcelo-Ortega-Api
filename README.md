@@ -1,5 +1,7 @@
 ### Trabajo práctico Apis/Fetch
-#####Proceso del desarollo del trabajo práctico
+- El proyecto tiene como fin entretener a los usuarios que ingresen a la página brindandoles divertidos datos que quizás no conocian a solo 1 click de distancia.
+  
+###Proceso del desarollo del trabajo práctico
 
 - Primero se seleccionó una Api de mi interes del repositorio proporcionado por los profesores (https://github.com/public-apis/public-apis.git)
 
