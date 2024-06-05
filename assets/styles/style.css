@@ -1,0 +1,73 @@
+/* SE ESTILIZARON LOS ELEMENTOS CREADOS, FUERON CREADOS CON SU PROPIA CLASE PARA FACILITAR EL PROCESO */
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blanchedalmond;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+
+.miNombre{
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
+
+.recargar{
+    display: flex;
+     border-radius: 15px;
+     background-color: rgb(0, 0, 0);
+     color: rgb(255, 255, 255);
+     width: 140px;
+     height: 35px;
+     justify-content: center;
+     align-items: center;
+}
+
+.recargar:hover{
+    color: black;
+    background-color: white;
+    transition: 0.7s;
+}
+
+#containerApi{
+    display: flex;
+    padding: 30px;
+    display: flex;
+    background-color: whitesmoke;
+    align-items: center;
+    border-radius: 15px;
+    flex-direction: column;
+    border: solid 2px black;
+}
+
+
+.id{
+    display: flex;
+    justify-content: center;
+}
+
+.lengua{
+    font-size: 16px;
+}
+
+.permalink{
+    font-size: 16px;
+}
+
+.fuente{
+    font-size: 16px;
+}
+
+.datos{
+    display: flex;
+    justify-content: center;
+    color: rgb(209, 46, 87);
+}
